@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francisco Sanabria</h1>
 <h3 align="center">A Mobile Developer and Computer Science Student</h3>
 
-- 🔭 I’m currently working on **EKO PY**
+- 🔭 I’m currently working on **ITTI**
 
 - 💬 Ask me about **Flutter, NodeJS, React, Express,Java, Spring, C**
 
