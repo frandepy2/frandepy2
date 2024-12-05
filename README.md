@@ -1,16 +1,38 @@
-<h1 align="center">Hi 👋, I'm Francisco Sanabria</h1>
-<h3 align="center">A Mobile Developer and Computer Science Student</h3>
+# Hi there, I'm Fran! 👋
 
-- 🔭 I’m currently working on **ITTI**
+I’m a passionate **Mobile Developer** with expertise in **Flutter** and **native development** for both Android (Java, Kotlin) and iOS (Swift). I enjoy building clean, scalable, and maintainable software solutions, following best practices and utilizing modern architectures like **Clean Architecture**.
 
-- 💬 Ask me about **Flutter, NodeJS, React, Express,Java, Spring, C**
+## 🛠️ My Tech Stack
+- **Mobile Development**: Flutter, Swift, Kotlin, Java  
+- **State Management**: BLoC, Provider, GetIt  
+- **Backend**: Firebase, REST APIs, GraphQL  
+- **DevOps**: GitHub Actions, Fastlane, CI/CD  
+- **Others**: Dependency Injection, Kotlin Multiplatform, Jetpack Compose  
 
-- 📫 How to reach me **frandepy@gmail.com**
+## 🌟 My Highlights
+- Built and maintained complex mobile apps, including **EKO**, a banking application for a fintech company.
+- Delivered a **multitenant backend** system to support multiple environments and user bases efficiently.
+- Created reusable **SDKs and libraries** in Flutter, Kotlin Multiplatform, and Swift.
+- Taught **Mobile Development with Flutter** during **winter courses**, mentoring aspiring developers.
+- Published multiple apps to the **Google Play Store** and **Apple App Store**, including handling the entire deployment pipeline, **provisioning profiles**, **certificates**, and **app store optimization (ASO)**.
+- Presented talks and workshops, including a Flutter session at **Hacktoberfest**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/francisco-sanabria-0833b01b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francisco-sanabria-0833b01b2" height="30" width="40" /></a>
-</p>
+## 🚀 Goals
+- Build scalable solutions and lead large-scale projects.
+- Expand my portfolio with innovative projects.
+- Dive deeper into **project management** and **team-building** strategies.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## 📈 What I'm Working On
+- Developing a **Wear OS** app for real-time health monitoring.
+- Creating a **CLI tool** to streamline Flutter project setup with Clean Architecture.
+
+## 💡 Fun Facts
+- Former **volunteer Flutter instructor**.
+- Co-founder of the **IEEE Computer Society** at my university.
+- Striving to maintain a healthy lifestyle and improve my **VO2 max**.
+
+## 💬 Let’s Connect!
+- **GitHub**: [github.com/frandepy2](https://github.com/frandepy2)  
+- **LinkedIn**: [linkedin.com/in/francisco-sanabria-0833b01b2](https://www.linkedin.com/in/francisco-sanabria-0833b01b2/)  
+- **Email**: [frandepy@gmail.com](mailto:frandepy@gmail.com)
+
