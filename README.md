@@ -5,7 +5,7 @@ I’m a passionate **Mobile Developer** with expertise in **Flutter** and **nati
 ## 🛠️ My Tech Stack
 - **Mobile Development**: Flutter, Swift, Kotlin, Java  
 - **State Management**: BLoC, Provider, GetIt  
-- **Backend**: Firebase, REST APIs, GraphQL  
+- **Backend**: Firebase, REST APIs  
 - **DevOps**: GitHub Actions, Fastlane, CI/CD  
 - **Others**: Dependency Injection, Kotlin Multiplatform, Jetpack Compose  
 
