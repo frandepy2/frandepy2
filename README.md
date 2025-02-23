@@ -29,7 +29,6 @@ I’m a passionate **Mobile Developer** with expertise in **Flutter** and **nati
 ## 💡 Fun Facts
 - Former **volunteer Flutter instructor**.
 - Co-founder of the **IEEE Computer Society** at my university.
-- Striving to maintain a healthy lifestyle and improve my **VO2 max**.
 
 ## 💬 Let’s Connect!
 - **GitHub**: [github.com/frandepy2](https://github.com/frandepy2)  
